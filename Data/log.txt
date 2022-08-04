@@ -1,0 +1,200 @@
+27/05/2022_11:20:04 Box OK
+27/05/2022_11:22:33 Missing the card and rope
+21/06/2022_09:34:14 Box OK
+21/06/2022_09:34:27 Missing the rope
+21/06/2022_09:34:41 Missing the rope
+21/06/2022_09:34:46 Box OK
+21/06/2022_09:35:00 Missing the left and the rope
+21/06/2022_09:35:06 Missing the right
+21/06/2022_09:35:16 Missing the left, right and rope
+21/06/2022_09:35:30 Missing all 4 components
+21/06/2022_09:35:53 Box OK
+21/06/2022_09:36:08 Box OK
+21/06/2022_09:36:34 Missing the right and the rope
+21/06/2022_09:36:44 Box OK
+21/06/2022_09:36:57 Box OK
+21/06/2022_09:37:13 Box OK
+21/06/2022_09:37:26 Box OK
+21/06/2022_09:37:49 Missing the rope
+21/06/2022_09:38:01 Box OK
+21/06/2022_09:38:13 Missing the card and rope
+21/06/2022_09:38:32 Missing the right and card
+21/06/2022_09:38:56 Missing the rope
+21/06/2022_09:39:02 Missing the rope
+21/06/2022_09:39:20 Missing the right
+21/06/2022_09:39:34 Missing the left
+21/06/2022_09:40:50 Box OK
+21/06/2022_09:41:03 Missing the rope
+21/06/2022_09:41:18 Missing the rope
+21/06/2022_09:41:23 Box OK
+21/06/2022_09:41:37 Missing the left and the rope
+21/06/2022_09:41:43 Missing the right
+21/06/2022_09:41:54 Missing the left, right and rope
+21/06/2022_09:42:08 Missing all 4 components
+21/06/2022_09:42:32 Box OK
+21/06/2022_09:42:47 Box OK
+21/06/2022_09:43:13 Missing the right and the rope
+21/06/2022_09:43:23 Box OK
+21/06/2022_09:43:37 Box OK
+21/06/2022_09:43:53 Box OK
+21/06/2022_09:44:07 Box OK
+21/06/2022_09:44:30 Missing the rope
+21/06/2022_09:44:42 Box OK
+21/06/2022_09:44:54 Missing the card and rope
+21/06/2022_09:45:14 Missing the right and card
+21/06/2022_09:45:38 Missing the rope
+21/06/2022_09:45:44 Missing the rope
+21/06/2022_09:46:02 Missing the right
+21/06/2022_09:46:16 Missing the left
+21/06/2022_16:33:38 Box OK
+21/06/2022_16:33:51 Missing the rope
+21/06/2022_16:34:05 Missing the rope
+21/06/2022_16:34:11 Box OK
+21/06/2022_16:34:25 Missing the left and the rope
+21/06/2022_16:34:31 Missing the right
+21/06/2022_16:34:41 Missing the left, right and rope
+21/06/2022_16:34:55 Missing all 4 components
+21/06/2022_16:35:19 Box OK
+21/06/2022_16:35:33 Box OK
+21/06/2022_16:35:59 Missing the right and the rope
+21/06/2022_16:36:09 Box OK
+21/06/2022_16:36:23 Box OK
+21/06/2022_16:36:39 Box OK
+21/06/2022_16:36:53 Box OK
+21/06/2022_16:37:16 Missing the rope
+21/06/2022_16:37:28 Box OK
+21/06/2022_16:37:40 Missing the card and rope
+21/06/2022_16:37:59 Missing the right and card
+21/06/2022_16:38:23 Missing the rope
+21/06/2022_16:38:29 Missing the rope
+21/06/2022_16:38:47 Missing the right
+21/06/2022_16:39:01 Missing the left
+21/06/2022_17:50:49 Box OK
+21/06/2022_17:51:02 Missing the rope
+21/06/2022_17:51:16 Missing the rope
+21/06/2022_17:54:00 Box OK
+21/06/2022_17:54:13 Missing the rope
+21/06/2022_17:54:27 Missing the rope
+21/06/2022_17:54:33 Box OK
+21/06/2022_17:54:46 Missing the left and the rope
+21/06/2022_17:54:53 Missing the right
+21/06/2022_17:55:03 Missing the left, right and rope
+21/06/2022_18:02:54 Box OK
+21/06/2022_18:03:07 Missing the rope
+21/06/2022_18:03:21 Missing the rope
+21/06/2022_18:03:27 Box OK
+21/06/2022_18:03:40 Missing the left and the rope
+21/06/2022_18:03:47 Missing the right
+21/06/2022_18:03:57 Missing the left, right and rope
+21/06/2022_18:04:11 Missing all 4 components
+21/06/2022_18:04:34 Box OK
+21/06/2022_18:04:49 Box OK
+22/06/2022_13:35:21 Box OK
+22/06/2022_13:35:34 Missing the rope
+22/06/2022_13:35:48 Missing the rope
+22/06/2022_13:35:53 Box OK
+22/06/2022_13:44:05 Box OK
+22/06/2022_13:44:17 Missing the rope
+22/06/2022_13:44:32 Missing the rope
+22/06/2022_13:44:37 Box OK
+22/06/2022_14:04:28 Box OK
+22/06/2022_14:04:41 Missing the rope
+22/06/2022_14:04:55 Missing the rope
+22/06/2022_14:05:01 Box OK
+22/06/2022_14:05:15 Missing the left and the rope
+22/06/2022_14:05:21 Missing the right
+22/06/2022_14:05:31 Missing the left, right and rope
+22/06/2022_14:05:45 Missing all 4 components
+22/06/2022_14:06:08 Box OK
+22/06/2022_14:06:23 Box OK
+22/06/2022_14:06:49 Missing the right and the rope
+22/06/2022_14:06:59 Box OK
+22/06/2022_14:07:13 Box OK
+22/06/2022_14:07:29 Box OK
+22/06/2022_14:07:42 Box OK
+22/06/2022_14:08:05 Missing the rope
+22/06/2022_14:08:17 Box OK
+22/06/2022_14:08:28 Missing the card and rope
+22/06/2022_14:08:57 Box OK
+22/06/2022_14:09:10 Missing the rope
+22/06/2022_14:09:24 Missing the rope
+22/06/2022_14:09:30 Box OK
+22/06/2022_14:09:43 Missing the left and the rope
+22/06/2022_14:09:50 Missing the right
+22/06/2022_14:10:00 Missing the left, right and rope
+22/06/2022_14:11:58 Box OK
+22/06/2022_14:12:19 Missing the rope
+22/06/2022_14:12:42 Missing the rope
+22/06/2022_14:12:51 Box OK
+22/06/2022_14:13:14 Missing the left and the rope
+22/06/2022_14:13:31 Missing the right
+22/06/2022_14:14:25 Box OK
+22/06/2022_14:14:45 Missing the rope
+22/06/2022_14:15:09 Missing the rope
+22/06/2022_14:15:18 Box OK
+22/06/2022_14:15:40 Missing the left and the rope
+22/06/2022_14:20:48 Box OK
+22/06/2022_14:21:01 Missing the cord
+22/06/2022_14:21:16 Missing the cord
+22/06/2022_14:21:21 Box OK
+22/06/2022_14:21:35 Missing the left and the cord
+22/06/2022_14:21:41 Missing the right
+22/06/2022_14:25:20 Box OK
+22/06/2022_14:25:32 Missing the cord
+22/06/2022_14:27:38 Box OK
+22/06/2022_14:27:51 Missing the cord
+22/06/2022_14:29:46 Box OK
+22/06/2022_14:29:59 Missing the cord
+22/06/2022_14:30:13 Missing the cord
+22/06/2022_14:30:38 Box OK
+22/06/2022_14:31:21 Box OK
+22/06/2022_14:31:33 Missing the cord
+22/06/2022_14:31:48 Missing the cord
+22/06/2022_14:31:53 Box OK
+22/06/2022_14:32:07 Missing the left and the cord
+22/06/2022_14:32:13 Missing the right
+22/06/2022_14:32:24 Missing the left, right and cord
+22/06/2022_14:32:38 Missing all 4 components
+22/06/2022_14:33:01 Box OK
+22/06/2022_14:33:15 Box OK
+22/06/2022_14:33:42 Missing the right and the cord
+22/06/2022_14:33:52 Box OK
+22/06/2022_14:34:05 Box OK
+22/06/2022_14:34:22 Box OK
+22/06/2022_14:34:35 Box OK
+22/06/2022_14:34:57 Missing the cord
+22/06/2022_14:35:10 Box OK
+22/06/2022_14:35:22 Missing the booklet and cord
+22/06/2022_14:35:41 Missing the right and booklet
+22/06/2022_14:36:05 Missing the cord
+22/06/2022_14:36:11 Missing the cord
+22/06/2022_14:36:29 Missing the right
+22/06/2022_14:36:43 Missing the left
+22/06/2022_15:32:34 Box OK
+22/06/2022_15:33:17 Box OK
+22/06/2022_15:36:04 Box OK
+22/06/2022_15:41:50 Box OK
+22/06/2022_15:49:51 Box OK
+22/06/2022_15:52:38 Box OK
+22/06/2022_15:52:58 Missing the cord
+22/06/2022_16:03:55 Box OK
+22/06/2022_16:04:08 Missing the cord
+22/06/2022_16:04:23 Missing the cord
+22/06/2022_16:04:28 Box OK
+22/06/2022_16:05:37 Box OK
+22/06/2022_16:05:49 Missing the cord
+22/06/2022_16:06:19 Box OK
+22/06/2022_16:06:32 Missing the cord
+22/06/2022_16:06:47 Missing the cord
+22/06/2022_16:06:52 Box OK
+22/06/2022_16:07:06 Missing the left and the cord
+22/06/2022_16:07:12 Missing the right
+22/06/2022_16:07:23 Missing the left, right and cord
+22/06/2022_16:11:10 Box OK
+22/06/2022_16:11:23 Missing the cord
+22/06/2022_16:11:38 Missing the cord
+22/06/2022_16:11:43 Box OK
+22/06/2022_16:11:57 Missing the left and the cord
+22/06/2022_16:12:03 Missing the right
+28/06/2022_10:03:02 Box OK
+28/06/2022_10:03:15 Missing the cord

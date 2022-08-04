@@ -1,0 +1,60 @@
+22/06/2022_16:11:10
+STATS:
+Pass: 1
+Fail: 0
+Yield: 1.0
+THREE COMMON MISSING
+
+
+
+-----------------------
+22/06/2022_16:11:23
+STATS:
+Pass: 1
+Fail: 1
+Yield: 0.5
+THREE COMMON MISSING
+Power cord : 1 times
+
+
+-----------------------
+22/06/2022_16:11:38
+STATS:
+Pass: 1
+Fail: 2
+Yield: 0.33
+THREE COMMON MISSING
+Power cord : 2 times
+
+
+-----------------------
+22/06/2022_16:11:43
+STATS:
+Pass: 2
+Fail: 2
+Yield: 0.5
+THREE COMMON MISSING
+Power cord : 2 times
+
+
+-----------------------
+22/06/2022_16:11:57
+STATS:
+Pass: 2
+Fail: 3
+Yield: 0.4
+THREE COMMON MISSING
+Power cord : 3 times
+Left ear : 1 times
+
+-----------------------
+28/06/2022_10:03:02
+STATS:
+Pass: 1
+Fail: 0
+Yield: 1.0
+THREE COMMON MISSING
+
+
+
+-----------------------
